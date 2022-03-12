@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, Solidity
 - 💞️ I’m looking to collaborate on ..Start up projects
 - 📫 How to reach me ... kboateng@protonmail.com ,
- @KonciiuskofiGh
+ 
 
 <!---
 KennyBoate/KennyBoate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
