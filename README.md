@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... Python, Java, HTMl ,Web 3
 - 🌱 I’m currently learning ... Python, Solidity
 - 💞️ I’m looking to collaborate on ..Start up projects
-- 📫 How to reach me ... kboateng@protonmail.com ,
+- 📫 How to reach me ... kboateng@protonmail.com 
+- meandyou.wallet
+- mineisyours.nft
  
 
 <!---
