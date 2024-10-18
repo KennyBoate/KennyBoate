@@ -5,7 +5,7 @@
 - 📫 How to reach me ... kboateng@protonmail.com 
 - meandyou.wallet
 - mineisyours.nft
- 
+ Currently Diving into AI and more
 
 <!---
 KennyBoate/KennyBoate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
